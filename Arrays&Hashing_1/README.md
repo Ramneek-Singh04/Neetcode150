@@ -1,3 +1,6 @@
+Problem Name:
+🟢 Contains Duplicate
+
 Given:
 
 List of nums
